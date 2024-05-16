@@ -1,6 +1,6 @@
 # Sentiment_Analysis_Project
 
-our project underscores the efficacy of sentiment analysis in distilling 
+My project underscores the efficacy of sentiment analysis in distilling 
 actionable insights from news textual data. Leveraging advanced NLP techniques, we have
 Dissected and categorized the sentiments expressed within a substantial news article 
 dataset. The findings of our analysis carry implications for stakeholders across manifold 
